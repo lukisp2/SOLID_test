@@ -7,7 +7,7 @@ public class RentalProcessor {
     private RentalRepository rentalRepository;
 
 
-    public RentalProcessort(final InformationService informationService,
+    public RentalProcessor(final InformationService informationService,
                             final RentalService rentalService,
                             final RentalRepository rentalRepository) {
         this.informationService = informationService;
