@@ -1,6 +1,9 @@
-package com.company;
+package com.company.services;
 
 import java.time.LocalDateTime;
+
+import com.company.domains.RentRequest;
+import com.company.domains.User;
 
 public class RentRequestRetriever {
 

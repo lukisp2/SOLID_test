@@ -1,4 +1,4 @@
-package com.company;
+package com.company.domains;
 
 public class User {
     private String name;
